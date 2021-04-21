@@ -1,0 +1,26 @@
+h1{
+    margin: 10px;
+    color: black ;
+}
+h4{
+    background: 80px rgb(55, 155, 142);
+    color: white;
+}
+
+#divClass{
+    background-image:url('./fondo.jpg');
+    height: 50px;
+    width: 600px;
+    padding: 50px;
+    border: 1px solid black;
+}
+#divClass2{
+    width: 680px;
+    padding: 10px;
+    border: 1px solid black;
+    background-color: beige;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
